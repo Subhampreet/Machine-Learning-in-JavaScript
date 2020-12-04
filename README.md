@@ -1,6 +1,6 @@
 <h1 align="center">Machine Learning using JavaScript</h1>
 
-<img src="https://i.morioh.com/19ff3e4195.png" width="70%" align="center">
+<img src="https://i.morioh.com/19ff3e4195.png" >
 
 ### What is Machine Learning?
 
