@@ -16,9 +16,9 @@ A computer program is said to learn from experience <b>E</b> with respect to som
 
 #### Example: Playing checkers.
 
-E = the experience of playing many games of checkers
-T = the task of playing checkers.
-P = the probability that the program will win the next game
+- <b>E</b> = the experience of playing many games of checkers
+- <b>T</b> = the task of playing checkers.
+- <b>P</b> = the probability that the program will win the next game
 
 In general, any machine learning problem can be assigned to one of two broad classifications:
 Supervised learning and Unsupervised learning.
