@@ -8,6 +8,23 @@ Arthur Samuel, a pioneer in the field of artificial intelligence and computer ga
 
 In a very layman manner, Machine Learning(ML) can be explained as automating and improving the learning process of computers based on their experiences without being actually programmed i.e. without any human assistance. The process starts with feeding good quality data and then training our machines(computers) by building machine learning models using the data and different algorithms. The choice of algorithms depends on what type of data do we have and what kind of task we are trying to automate.
 
+#### What does exactly learning means for a computer?
+
+A computer is said to be learning from Experiences with respect to some class of Tasks, if its performance in a given Task improves with the Experience.
+
+A computer program is said to learn from experience <b>E</b> with respect to some class of tasks <b>T</b> and performance measure <b>P</b>, if its performance at tasks in <b>T</b>, as measured by <b>P</b>, improves with experience <b>E</b>
+
+#### Example: Playing checkers.
+
+E = the experience of playing many games of checkers
+T = the task of playing checkers.
+P = the probability that the program will win the next game
+
+In general, any machine learning problem can be assigned to one of two broad classifications:
+Supervised learning and Unsupervised learning.
+
+
+
 ### Referances and Resources:
 
 - [Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW&index=1)
